@@ -24,5 +24,5 @@ Temporary Items
 
 dist/
 node_modules/
-package-log.json
+package-lock.json
 app/scc/*
