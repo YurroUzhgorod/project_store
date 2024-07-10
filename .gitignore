@@ -2,10 +2,7 @@ DC_Store
 .idea/
 .idea/*
 .vscode
-build/
-node_modules/
 npm-debug.* 
-
 .AppleDouble
 .LSOverride
 Icon
@@ -23,3 +20,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 *.icloud
+
+
+dist/
+node_modules/
+package-log.json
+app/scc/*
